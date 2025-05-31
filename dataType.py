@@ -79,3 +79,4 @@ print(bool(t))
 # Q20. What is the type of b"byte string"?
 pp=b"byte string"
 print(type(pp))
+
